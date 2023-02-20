@@ -1,2 +1,2 @@
 
-This folder contains the project report.
+This folder contains the project report and the user manual.
