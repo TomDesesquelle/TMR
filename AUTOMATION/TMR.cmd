@@ -1,4 +1,3 @@
-
 set initialProject_PATH=%~dp1
 cd %initialProject_PATH%
 MD temp
